@@ -1,4 +1,4 @@
-name: CI/CD Pipeline test1
+name: CI/CD Pipeline tp
 
 on:
   push:
