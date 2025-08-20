@@ -3,10 +3,10 @@ name: CI/CD Pipeline dev tp1
 on:
   push:
     branches:
-      - develop
+      - main
   pull_request:
     branches:
-      - develop
+      - main
 
 jobs:
   build:
